@@ -119,8 +119,3 @@ def create_new(username):
     print(f'Password for {n_name} saved successfully!')
 
 start()
-
-
-
-# use criptography
-# try saving on online server
